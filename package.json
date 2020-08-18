@@ -1,0 +1,17 @@
+{
+  "name": "snyk",
+  "version": "1.0.0",
+  "description": "Home excercise",
+  "main": "Excercise.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "json-beautify": "^1.1.1",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Mark Volkov",
+  "license": "ISC"
+}
